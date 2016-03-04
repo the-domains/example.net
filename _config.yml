@@ -1,10 +1,10 @@
-layout_spectrum: 0.736639735288918
-typography_spectrum: 0.756784109165892
+layout_spectrum: 0.40666297962889075
+typography_spectrum: 0.11855544871650636
 color:
-  brandStrength: 0.7531819166615605
-  lightness: 0.9563636756502092
-  saturation: 0.7737870484124869
-  rhythmicContrast: 0.4242121723946184
+  brandStrength: 0.2959093067329377
+  lightness: 0.9852042896673083
+  saturation: 0.6233631321229041
+  rhythmicContrast: 0.7867137955036014
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
