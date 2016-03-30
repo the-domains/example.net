@@ -1,13 +1,13 @@
-layout_spectrum: 0.21791016729548573
-typography_spectrum: 0.7418851933907717
+layout_spectrum: 0.46347862342372537
+typography_spectrum: 0.5236802450381219
 color:
-  brandStrength: 0.19825703464448452
-  lightness: 0.5107539889868349
-  saturation: 0.7361785233952105
-  rhythmicContrast: 0.38544633123092353
+  brandStrength: 0.832368063274771
+  lightness: 0.720059874933213
+  saturation: 0.676353951683268
+  rhythmicContrast: 0.713322970783338
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
