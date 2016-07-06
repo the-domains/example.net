@@ -1,10 +1,10 @@
-layout_spectrum: 0.36849947669543326
-typography_spectrum: 0.9836225374601781
+layout_spectrum: 0.11565462430007756
+typography_spectrum: 0.14620498777367175
 color:
-  brandStrength: 0.6268161521293223
-  lightness: 0.7594064888544381
-  saturation: 0.14388766163028777
-  rhythmicContrast: 0.27737598051317036
+  brandStrength: 0.9179050629027188
+  lightness: 0.6411936266813427
+  saturation: 0.9005646968726069
+  rhythmicContrast: 0.24564437218941748
   brandColors:
     - '#A690A4'
     - '#B68F9D'
