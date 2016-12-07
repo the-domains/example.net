@@ -1,14 +1,14 @@
 github: true
-layout_spectrum: 0.8324712780304253
-typography_spectrum: 0.26666789618320763
+layout_spectrum: 0.11935283266939223
+typography_spectrum: 0.7648064459208399
 color:
-  brandStrength: 0.15566628542728722
-  lightness: 0.5313462060876191
-  saturation: 0.13102060952223837
-  rhythmicContrast: 0.29187369416467845
+  brandStrength: 0.3953151621390134
+  lightness: 0.6397679415531456
+  saturation: 0.8958996136207134
+  rhythmicContrast: 0.05975913908332586
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
